@@ -61,7 +61,7 @@ async def gen_start_kb(q: Message or CallbackQuery):
             [
                 (
                     "🗃️ Source Code",
-                    "https://github.com/Gojo-Bots/Gojo_Satoru",
+                    "https://rb.gy/pha7jy",
                     "url",
                 ),
                 (
